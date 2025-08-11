@@ -1,6 +1,4 @@
-body{font-family:system-ui,Segoe UI,Arial;margin:16px}
-header h1{margin:0 0 12px}
-table{width:100%;border-collapse:collapse}
-th,td{border:1px solid #ddd;padding:8px;text-align:left}
-form input{display:inline-block;margin:4px 6px;padding:6px}
-button{padding:6px 10px}
+body { font-family: Arial, sans-serif; margin: 20px; }
+table { border-collapse: collapse; width: 100%; }
+th, td { padding: 8px; text-align: left; }
+form input { margin: 5px; }
